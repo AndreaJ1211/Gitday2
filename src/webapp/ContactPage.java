@@ -6,4 +6,7 @@ public class ContactPage {
 
     //faecbook
     //twitter//insta
+
+    //youtube
+    //email
 }
