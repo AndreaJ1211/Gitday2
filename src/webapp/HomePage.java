@@ -4,4 +4,5 @@ public class HomePage {
 
     //setting up homepage, menu navigation
     //more updates
+    //add more items
 }
